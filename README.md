@@ -7,6 +7,7 @@ I am Martin, a passionate developer focused on building software solutions and d
 - Payments Cards Industry
 - Integrations
 
+## Interests
 - 🔭 I’m currently working on SaaS development projects using PHP.
 - 🌱 I’m currently integrating software architectures such as Singleton, dependency injection, and more.
 - 👯 I’m looking to collaborate on innovative web applications or data-driven projects.
